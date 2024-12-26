@@ -1,4 +1,6 @@
 # NETWORK3
+![image](https://github.com/user-attachments/assets/df2f0e41-9104-467a-a9d9-25bd8d08912c)
+
 
 1.KAYIT
 
@@ -53,5 +55,5 @@ Bir müddet sonra puanlar gelmeye başlayacak
 ![image](https://github.com/user-attachments/assets/f055d113-ed46-483e-abc3-271121be0939)
 
 
-
+CoreNode ekibine teşekkürler.
 
