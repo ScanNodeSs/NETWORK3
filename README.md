@@ -4,7 +4,9 @@
 
 1.KAYIT
 
-öncelikle Aşağıdaki linkten kayıt olmamız gerekiyor
+Öncelikle Aşağıdaki linkten kayıt olmanız gerekiyor
+Önemli not:Eğer hazli hazırda pc den node çalışıyorsa ona eklenti yapılamıyor yeni bir hesapla giriş yapmanız gerekiyor 
+her node için bir hesap bir node şeklinde oluyor.
 
 LİNK:https://account.network3.ai/register_page?rc=31ba2ff4
 
