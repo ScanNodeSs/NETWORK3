@@ -45,7 +45,9 @@ sudo bash manager.sh key
 
 Aşağıdaki yere ipadresi yazan yeri silip sunucunuzun ip adresini yazınız ve başka hiç bir şey değiştirmeden hepsini kopyalayınız
 
-ve tarayıcınıza yapıştırınız
+ve tarayıcınıza yapıştırınız 
+
+Lütfen uygulamaya e-mail ve şifrenizle giriş yapınız.Aksi durumda key girme kutucuğu gözükmeyecektir
 
 Link:https://account.network3.ai/main?o=IPadresi:8080
 
