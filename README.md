@@ -61,7 +61,8 @@ Ayrıca wallet entagrasoynuda geldi sol veya eth cüzdanı bağlayın
 
 Henüz güncelleme gelmediğinden puanlar görünmeyebilir
 
-![image](https://github.com/user-attachments/assets/7cfc417e-85b6-47fe-9806-19666c774679)
+![image](https://github.com/user-attachments/assets/3e26c626-1079-41ff-8658-926086f1badb)
+
 
 
 
