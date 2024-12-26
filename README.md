@@ -46,11 +46,18 @@ sudo bash manager.sh key
 Aşağıdaki yere ipadresi yazan yeri silip sunucunuzun ip adresini yazınız ve başka hiç bir şey değiştirmeden hepsini kopyalayınız
 
 ve tarayıcınıza yapıştırınız
-https://account.network3.ai/main?o=IPadresi:8080
+
+Link:https://account.network3.ai/main?o=IPadresi:8080
 
 aşağıdaki gibi bir ekran gelecek sol tarafta node connected yazan yerde +(artı) işaretine basınız ve açılan kutucuğa key giriniz
 
 Bir müddet sonra puanlar gelmeye başlayacak 
+
+Ayrıca wallet entagrasoynuda geldi sol veya eth cüzdanı bağlayın
+
+Öneri:okex wallet sol veya eth cüzdanı import edip bağlayabilirsiniz
+
+Henüz güncelleme gelmediğinden puanlar görünmeyebilir
 
 ![image](https://github.com/user-attachments/assets/f055d113-ed46-483e-abc3-271121be0939)
 
