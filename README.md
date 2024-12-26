@@ -61,7 +61,8 @@ Ayrıca wallet entagrasoynuda geldi sol veya eth cüzdanı bağlayın
 
 Henüz güncelleme gelmediğinden puanlar görünmeyebilir
 
-![image](https://github.com/user-attachments/assets/f055d113-ed46-483e-abc3-271121be0939)
+![image](https://github.com/user-attachments/assets/7cfc417e-85b6-47fe-9806-19666c774679)
+
 
 
 CoreNode ekibine teşekkürler.
