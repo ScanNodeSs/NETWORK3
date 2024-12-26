@@ -39,7 +39,7 @@ cd ubuntu-node
 sudo bash manager.sh up
 sudo bash manager.sh key
 ```
-Eğer anahtarı(key) sogrulamak istiyorsanız aşağıdaki koduy giriniz
+Eğer anahtarı(key) sogrulamak istiyorsanız aşağıdaki kodu giriniz
 ```shell
 sudo bash manager.sh key
 ```
